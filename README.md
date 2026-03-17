@@ -28,7 +28,9 @@ Example usage:
 
 ## Project Structure
 scripts/ → Bash automation scripts
+
 screenshots/ → proof of completed tasks
+
 documentation/ → explanation of steps
 
 ## Author
