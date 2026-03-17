@@ -33,5 +33,5 @@ documentation/ → explanation of steps
 
 ## Author
 Abdul-Salam Awal
-# linux-admin-project-v2
-# linux-admin-project-v2
+# linux-admin-project-
+
